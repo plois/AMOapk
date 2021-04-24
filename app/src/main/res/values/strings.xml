@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab_1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="contentDescriptionContent">image with data</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="linear_algorithm">Лінійний алгоритм</string>
+    <string name="branched_algorithm">Алгоритм, що розгалужується</string>
+    <string name="cyclic_algorithm">Циклічний алгоритм</string>
+    <string name="a">\u0020a:\u0020</string>
+    <string name="b">\u0020b:\u0020</string>
+    <string name="c">\u0020c:\u0020</string>
+    <string name="d">\u0020d:\u0020</string>
+    <string name="k">\u0020k:\u0020</string>
+    <string name="p">\u0020p:\u0020</string>
+    <string name="y">\u0020y:\u0020</string>
+    <string name="f">\u0020f:\u0020</string>
+    <string name="y1">\u0020Y1:\u0020</string>
+    <string name="input_a">\u0020Введіть a:\u0020</string>
+    <string name="input_b">\u0020Введіть b:\u0020</string>
+    <string name="input_c">\u0020Введіть c:\u0020</string>
+    <string name="input_d">\u0020Введіть d:\u0020</string>
+    <string name="input_p">\u0020Введіть p:\u0020</string>
+    <string name="input_k">\u0020Введіть k:\u0020</string>
+    <integer name="distance">20</integer>
+    <string name="calculate">Обчислити</string>
+    <string name="empty">\u0020</string>
+    <dimen name="space">5dp</dimen>
+    <dimen name="micro_space">3dp</dimen>
+    <dimen name="micro_textSize">20sp</dimen>
+    <dimen name="textSize">25sp</dimen>
+</resources>
